@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tourtickets.github.io/tame-impala-tickets/sitemap.xml
